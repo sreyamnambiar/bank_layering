@@ -62,6 +62,10 @@ const RightPanel: React.FC<RightPanelProps> = ({ selectedNode, nodeLinks, detect
           <span className="text-slate-500 uppercase font-semibold">Phone</span>
           <span className="font-mono">{selectedNode.phone || 'N/A'}</span>
         </div>
+        <div className="flex justify-between">
+          <span className="text-slate-500 uppercase font-semibold">Location</span>
+          <span className="font-mono text-right">{selectedNode.location || 'N/A'}</span>
+        </div>
       </div>
 
       {isHighRisk && (
