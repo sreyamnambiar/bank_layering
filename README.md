@@ -1,6 +1,6 @@
 # NidhiNetra — Intelligent Financial Trail Detection System
 
-> *From scattered transactions to connected truth.*
+> *From scattered transactions to connected truthful.*
 
 ![Red Shield Hackathon 2026](https://img.shields.io/badge/Red%20Shield%20Hackathon-2026-red?style=flat-square)
 ![Category](https://img.shields.io/badge/Category-Software-blue?style=flat-square)
